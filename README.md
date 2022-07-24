@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This is a place for little experiments. Interested in music software, document generation and creative web dev.
+
+Write code for people, not for the compiler.
+
 <!--
 **hirnsalat/hirnsalat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
